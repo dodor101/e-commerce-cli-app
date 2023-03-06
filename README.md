@@ -18,5 +18,5 @@ This E-Commerce backend has the API routes that point to each of the standard [C
 
 ## Walkthrough video
 
-[Youtube Video]()
+[Youtube Video](https://youtu.be/gBtX3vrhABw)
 
